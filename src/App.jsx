@@ -1,10 +1,11 @@
 import './App.css'
+import CounterPage from './pages/CounterPage'
 
 function App() {
 
   return (
     <div>
-      Hello
+       <CounterPage />
     </div>
   )
 }
